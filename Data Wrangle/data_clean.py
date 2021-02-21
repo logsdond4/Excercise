@@ -5,7 +5,7 @@ Created on Mon Oct 19 16:54:12 2020
 @author: Dan Logsdon
 
 #This code cleans the two data sets provided by Deloitte for use in their 
-excercises
+excercises. This had been updated on 02/21/21 to test git functionality.
 """
 
 #%% Import Packages
